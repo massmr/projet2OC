@@ -163,6 +163,10 @@ p {
 	text-decoration: none;
 }
 
+.button:hover {
+	font-weight: bold;
+}
+
 .buttonDrakGreyColor {
 	color: var(--drak-grey-color);
 	border-color: var(--drak-grey-color);
