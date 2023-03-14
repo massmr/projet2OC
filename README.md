@@ -1,1 +1,1 @@
-# DW-V3-P2
+# This is the repository for my project 2 of openclassrooms' Integrator course
